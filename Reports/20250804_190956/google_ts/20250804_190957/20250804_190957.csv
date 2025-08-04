@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+google_ts,Chrome 138.0.7204.184,,,04-08-2025 19:09:58,04-08-2025 19:10:05,6.419s,PASSED
+,,,,,,,
+Test Cases/google_tc,Chrome 138.0.7204.184,,,04-08-2025 19:09:58,04-08-2025 19:10:05,6.272s,PASSED
+"openBrowser("""")",Chrome 138.0.7204.184,,,04-08-2025 19:09:58,04-08-2025 19:10:00,2.137s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 138.0.7204.184,,,04-08-2025 19:10:00,04-08-2025 19:10:02,1.797s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Google/svg_ng nhp_lnXdpd""))",Chrome 138.0.7204.184,,,04-08-2025 19:10:02,04-08-2025 19:10:03,0.870s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_ng nhp_APjFqb""), ""abc"")",Chrome 138.0.7204.184,,,04-08-2025 19:10:03,04-08-2025 19:10:04,1.262s,PASSED
+closeBrowser(),Chrome 138.0.7204.184,,,04-08-2025 19:10:04,04-08-2025 19:10:05,0.089s,PASSED

@@ -1,0 +1,27 @@
+2025-08-04 19:09:58.574 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/google_ts
+2025-08-04 19:09:58.608 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Linh Nguyen
+2025-08-04 19:09:58.608 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = LinhNguyenG3
+2025-08-04 19:09:58.608 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = linh.nguyen - localhost
+2025-08-04 19:09:58.608 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Mac OS X 64bit
+2025-08-04 19:09:58.608 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 127.0.0.1
+2025-08-04 19:09:58.609 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.3.0.0
+2025-08-04 19:09:58.738 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-08-04 19:09:58.738 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/google_tc
+2025-08-04 19:09:58.850 DEBUG testcase.google_tc                       - 1: openBrowser("")
+2025-08-04 19:09:58.908 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-08-04 19:09:58.923 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+Aug 04, 2025 7:10:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
+2025-08-04 19:10:00.972 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = bfa43296a9d072361d3ed9feb0e5e27e
+2025-08-04 19:10:00.972 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 138.0.7204.184
+2025-08-04 19:10:00.972 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Mac OS X
+2025-08-04 19:10:00.972 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-08-04 19:10:00.975 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-08-04 19:10:00.987 DEBUG testcase.google_tc                       - 2: navigateToUrl("https://www.google.com/")
+2025-08-04 19:10:02.785 DEBUG testcase.google_tc                       - 3: verifyElementVisible(findTestObject("Object Repository/Page_Google/svg_ng nhp_lnXdpd"))
+2025-08-04 19:10:03.659 DEBUG testcase.google_tc                       - 4: setText(findTestObject("Object Repository/Page_Google/textarea_ng nhp_APjFqb"), "abc")
+2025-08-04 19:10:04.921 DEBUG testcase.google_tc                       - 5: closeBrowser()
+2025-08-04 19:10:05.010 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/google_tc
+2025-08-04 19:10:05.021 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2025-08-04 19:10:05.021 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/google_ts
+2025-08-04 19:10:05.021 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================
