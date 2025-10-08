@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>094ca802-845d-4f12-ad0d-bbcd0c21f14f</id>
+        </flow>
+    </customField>
+    <description>Begin at the home page, explore various links including Campus Life and Admissions, and navigate back to verify the Health Care page through breadcrumbs.</description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT"}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>TC1-Explore Campus Life and Verify Health Care Page</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>7a577d46-2bbc-45ff-aa90-8e2bdffaae4f</testCaseGuid>
+</TestCaseEntity>

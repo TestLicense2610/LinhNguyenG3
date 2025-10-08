@@ -1,0 +1,27 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+3,Navigate through Academic and Research Breadcrumbs,"Start from the home page and navigate through the breadcrumbs to access the Academics, Research, and Health Care pages, verifying the final page.","Step 1: Navigate to /
+Step 2: Click on link academics -> Navigate to page '/academics'
+Step 3: Click on link research -> Navigate to page '/research'
+Step 4: Click on link healthCare -> Navigate to page '/health-care'
+Step 5: Take full page screenshot as checkpoint
+",High,NEW
+1,Explore Campus Life and Verify Health Care Page,"Begin at the home page, explore various links including Campus Life and Admissions, and navigate back to verify the Health Care page through breadcrumbs.","Step 1: Navigate to /
+Step 2: Click on link campusLife -> Navigate to page '/campus-life'
+Step 3: Click on link healthCare -> Navigate to page '/health-care'
+Step 4: Click on link research -> Navigate to page '/research'
+Step 5: Click on link academics -> Navigate to page '/academics'
+Step 6: Click on link admission -> Navigate to page '/admission'
+Step 7: Click on link about -> Navigate to page '/about'
+Step 8: Click on link news -> Navigate to page '/'
+Step 9: Click on link academics -> Navigate to page '/academics'
+Step 10: Click on link research -> Navigate to page '/research'
+Step 11: Click on link healthCare -> Navigate to page '/health-care'
+Step 12: Take full page screenshot as checkpoint
+",High,NEW
+2,Access Faculty and Staff Information through Breadcrumbs,"From the home page, navigate to learn more about Academics and access the Faculty and Staff page, verifying the final destination.","Step 1: Navigate to /
+Step 2: Click on link moreAboutStanford -> Navigate to page '/about'
+Step 3: Click on link learnMoreAboutAcademics -> Navigate to page '/academics'
+Step 4: Click on h1 object
+Step 5: Click on link facultyAndStaff -> Navigate to page '/faculty-staff-gateway'
+Step 6: Take full page screenshot as checkpoint
+",High,NEW
