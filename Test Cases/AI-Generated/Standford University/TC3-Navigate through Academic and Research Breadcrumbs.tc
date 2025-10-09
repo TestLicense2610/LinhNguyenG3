@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TestCaseEntity>
-    <comment></comment>
-    <customField>
-        <flow>
-            <id>74a385b4-92c1-43fc-bc43-a5f13d0a93c4</id>
-        </flow>
-    </customField>
-    <description>Start from the home page and navigate through the breadcrumbs to access the Academics, Research, and Health Care pages, verifying the final page.</description>
-    <integratedEntity>
-        <productName>TESTOPS</productName>
-        <properties>
-            <entry>
-                <key>integratedValue</key>
-                <value>{"status": "DRAFT"}</value>
-            </entry>
-        </properties>
-        <type>TESTCASE</type>
-    </integratedEntity>
-    <name>TC3-Navigate through Academic and Research Breadcrumbs</name>
-    <origin>TRUETEST</origin>
-    <tag></tag>
-    <testCaseGuid>ae20406c-1d5d-408f-ae6e-d659a14f88b3</testCaseGuid>
+   <comment></comment>
+   <customField>
+      <flow>
+         <id>74a385b4-92c1-43fc-bc43-a5f13d0a93c4</id>
+      </flow>
+   </customField>
+   <description>Start from the home page and navigate through the breadcrumbs to access the Academics, Research, and Health Care pages, verifying the final page.</description>
+   <name>TC3-Navigate through Academic and Research Breadcrumbs</name>
+   <origin>TRUETEST</origin>
+   <tag></tag>
+   <testCaseGuid>ae20406c-1d5d-408f-ae6e-d659a14f88b3</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;author&quot;:null,&quot;status&quot;:&quot;DRAFT&quot;,&quot;assignee&quot;:&quot;&quot;,&quot;linkedTestCaseIds&quot;:[],&quot;customFields&quot;:{&quot;customField&quot;:[{&quot;key&quot;:&quot;featureArea&quot;,&quot;value&quot;:[]},{&quot;key&quot;:&quot;testType&quot;,&quot;value&quot;:[]}]},&quot;priority&quot;:&quot;HIGH&quot;,&quot;automationStatus&quot;:null}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
 </TestCaseEntity>
