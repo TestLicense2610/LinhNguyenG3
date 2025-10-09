@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on link moreAboutStanford -> Navigate to page '/about'",
+        "step 3: Click on link learnMoreAboutAcademics -> Navigate to page '/academics'",
+        "step 4: Click on h1 object",
+        "step 5: Click on link facultyAndStaff -> Navigate to page '/faculty-staff-gateway'",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}

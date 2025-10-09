@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>cc8be0bf-6b5b-431c-bddd-f42902b52ac7</id>
+        </flow>
+    </customField>
+    <description>From the home page, navigate to learn more about Academics and access the Faculty and Staff page, verifying the final destination.</description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT"}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>TC2-Access Faculty and Staff Information through Breadcrumbs</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>2fd3296d-cacb-4d34-b0a3-be4cc036b98a</testCaseGuid>
+</TestCaseEntity>
